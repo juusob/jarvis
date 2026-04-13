@@ -1,3 +1,6 @@
+# LiveKit Agent Starter modified with Azure Endpoints & Finnish Meteorological Institute tool
+This is a basic example of setting up a LiveKit agent integrated with Microsoft Foundry for LLM capabilities, Azure Speech for voice, and an example tool that connects the agent to the Finnish Meteorological Institute (FMI).
+
 # Setup Instructions
 
 ## 1. Create a LiveKit Project
