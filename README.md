@@ -9,7 +9,7 @@ This is a basic example of setting up a LiveKit agent integrated with Microsoft 
 2. Sign in or create an account
 3. Create a new project from the bottom of the dashboard
 4. Select **Agent with code**
-5. Run the first couple of commands provided by the setup wizard
+5. Run the first three commands provided by the setup wizard
    > If you want the LiveKit API keys to be automatically filled into your `env.local` file, run the command that generates a template agent
 
 ## 2. Set Up the Project Locally
