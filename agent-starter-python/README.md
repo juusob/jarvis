@@ -2,7 +2,9 @@
   <img src="./.github/assets/livekit-mark.png" alt="LiveKit logo" width="100" height="100">
 </a>
 
-# AGENTS STARTER MODIFIED WITH AZURE ENDPOINT USAGE AND FINNISH METEOROLOGICAL INSTITUTION TOOL
+# AGENTS STARTER 
+
+MODIFIED WITH AZURE ENDPOINT USAGE AND FINNISH METEOROLOGICAL INSTITUTION TOOL. The original one can be found from here: https://github.com/livekit-examples/agent-starter-python
 
 # LiveKit Agents Starter - Python
 
